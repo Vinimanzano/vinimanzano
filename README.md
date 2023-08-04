@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou Vinícius Manzano 😄
 
-- 🌱 Atualmente estou aprendendo desenvolvimento e análise de sistemas.
+- 🌱 Atualmente sou estudante de desenvolvimento e análise de sistemas.
 
 ##
 ## Estou aprendendo
