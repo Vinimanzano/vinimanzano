@@ -4,6 +4,10 @@
 - 🌱 Atualmente estou aprendendo desenvolvimento e análise de sistemas.
 
 ##
+## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
 
 <div>
   <a href="https://github.com/vinimanzano" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -21,6 +25,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinimanzano&layout=compact)
 
 ##
-## Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+![baby yoda](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJ4bmkxZTM1cHBqMmRrc2tzcnJqYWgyenhjaGcwcnR4ZzM0dmUyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/go5Iy1VIpVwqI/giphy.gif)
