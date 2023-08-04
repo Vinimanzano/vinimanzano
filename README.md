@@ -29,3 +29,7 @@
 ##
 
 ![pombo de ouro ouro](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJ4bmkxZTM1cHBqMmRrc2tzcnJqYWgyenhjaGcwcnR4ZzM0dmUyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/go5Iy1VIpVwqI/giphy.gif)
+
+<div align="center">
+  <p>Credits to: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a></p>
+</div>
