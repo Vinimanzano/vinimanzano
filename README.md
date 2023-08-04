@@ -21,12 +21,11 @@
 ##
 
 ![vinimanzano GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimanzano&show_icons=true&theme=onedark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinimanzano&layout=compact)
 
 ##
 
-![baby yoda](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJ4bmkxZTM1cHBqMmRrc2tzcnJqYWgyenhjaGcwcnR4ZzM0dmUyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/go5Iy1VIpVwqI/giphy.gif)
+![pombo de ouro ouro](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJ4bmkxZTM1cHBqMmRrc2tzcnJqYWgyenhjaGcwcnR4ZzM0dmUyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/go5Iy1VIpVwqI/giphy.gif)
 
 
 ![Snake animation](https://github.com/ellen2121/vinimanzano/blob/output/github-contribution-grid-snake.svg)
