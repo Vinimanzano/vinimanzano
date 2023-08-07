@@ -1,6 +1,6 @@
-
-### Olá! Eu sou Vinícius Manzano 😄
-
+<div>
+  <h1 align="center">Olá, Eu sou <a href="https://www.linkedin.com/in/vinícius-manzano-3b887a121/"><i>Vinícius Manzano</i></a> 😃️</h1>
+</div>
 - 🌱 Atualmente sou estudante de desenvolvimento e análise de sistemas.
 
 ##
