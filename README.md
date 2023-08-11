@@ -38,4 +38,4 @@
   <p>Credits to: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a></p>
 </div>
 
-![snake animation](https://github.com/vinimanzano/vinimanzano/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/vinimanzano/blob/output/github-contribution-grid-snake2.svg)
