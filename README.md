@@ -44,5 +44,3 @@
 <div align="center">
   <p>Credits to: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a></p>
 </div>
-
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
