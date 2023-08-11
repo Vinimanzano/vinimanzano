@@ -34,6 +34,10 @@
 
 ![pombo de ouro ouro](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTJ4bmkxZTM1cHBqMmRrc2tzcnJqYWgyenhjaGcwcnR4ZzM0dmUyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/go5Iy1VIpVwqI/giphy.gif)
 
+##
+
+<img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/vinimanzano/vinimanzano/output/github-contribution-grid-snake-dark.svg">
+
 
  <div align="center">
   
