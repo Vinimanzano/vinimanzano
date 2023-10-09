@@ -16,9 +16,7 @@
 <img align="center" alt="python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png">
 
 ##
-<div>
-  <img align="center" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />
-</div>
+
 
 <div>
   <a href="https://github.com/vinimanzano" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -28,7 +26,9 @@
   <a href="https://www.linkedin.com/in/vinícius-manzano-3b887a121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
+<div>
+  <img align="center" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />
+</div>
 ##
 
 ![vinimanzano GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimanzano&show_icons=true&theme=onedark)
