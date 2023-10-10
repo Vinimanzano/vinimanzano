@@ -1,3 +1,8 @@
+<div align="right">
+  
+  ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id})
+</div>
+<div align="center">
 <div>
   <h1 align="center">Olá, Eu sou <a href="https://www.linkedin.com/in/vinícius-manzano-3b887a121/"><i>Vinícius Manzano</i></a> 😃️</h1>
 </div>
