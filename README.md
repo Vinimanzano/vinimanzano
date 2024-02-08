@@ -9,11 +9,6 @@
 - 🌱 Atualmente sou estudante de desenvolvimento e análise de sistemas.
 
 ##
-## Estou aprendendo
-<img width="40" height="40" vspace="20" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
-<img src="https://lh5.googleusercontent.com/-uREiNwXRv0g/UGVmpw4wkOI/AAAAAAAAFhA/opLIzoWqv7U/s288/HTML5_SF.png" width="40px" height="40px">
-<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" height="40px" width="40px">
-
 <div>
   <a href="https://github.com/vinimanzano" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/vinimanzano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
