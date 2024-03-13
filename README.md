@@ -75,9 +75,13 @@
 <br><br>
 </div>
 
+##
+
 <div>
   <img align="center" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />
 </div>
+
+##
 
 ![vinimanzano GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimanzano&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinimanzano&layout=compact)
