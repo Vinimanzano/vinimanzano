@@ -54,6 +54,7 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
     <br>Bootstrap
   </td>
+    <tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
