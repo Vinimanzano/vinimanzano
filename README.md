@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 <div>
-  <h1 align="center">Hello, I am <a href="https://www.linkedin.com/in/vinícius-manzano-3b887a121/"><i>Vinícius Manzano</i></a> 😃️</h1>
+  <h1 align="center">Hello, I amVinícius Manzano 😃️</h1>
 </div>
 - 🌱 I am currently a development and systems analysis student.
 
