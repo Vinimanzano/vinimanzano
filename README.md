@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 <div>
-  <h1 align="center">Hello, I amVinícius Manzano 😃️</h1>
+  <h1 align="center">Hello, I am Vinícius Manzano 😃️</h1>
 </div>
 - 🌱 I am currently a development and systems analysis student.
 
