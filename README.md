@@ -79,13 +79,3 @@
   <img align="center" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />
 </div>
 
-##
-
-![vinimanzano GitHub stats](https://github-readme-stats.vercel.app/api?username=vinimanzano&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinimanzano&layout=compact)
-
-<img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/vinimanzano/vinimanzano/output/github-contribution-grid-snake-dark.svg">
-
-<div align="center">
-  <p>Credits to: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a></p>
-</div>
