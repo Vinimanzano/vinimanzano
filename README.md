@@ -14,6 +14,14 @@
  	<a href="https://www.twitch.tv/vinimanzano" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href = "mailto:vini.manzano5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinícius-manzano-3b887a121/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+##
+
+  <div>
+  <img align="center" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />
+</div>
+
+##
 
  <h1>💻 My favorite tools and technologies</h1>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -71,11 +79,5 @@
   </tr>
 </table>
 <br><br>
-</div>
-
-##
-
-<div>
-  <img align="center" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />
 </div>
 
