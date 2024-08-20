@@ -24,7 +24,7 @@
 
 ##
 
- <h1>💻 My favorite tools and technologies</h1>
+ <h1>Technologies learned 💻</h1>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
