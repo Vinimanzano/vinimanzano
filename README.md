@@ -19,7 +19,7 @@
 ##
 
   <div>
-  <img align="center" alt="Chill gif" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" width="360" height="190" />
+  <img align="center" alt="Chill gif" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVxNWF4NGJqOTM2bG05eWpma2tvdnlwcmdiYWJuZHNydjAwMnN2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="360" height="190" />
 </div>
 
 ##
