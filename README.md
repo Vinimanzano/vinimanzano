@@ -1,7 +1,7 @@
 <h2 align="center">Hello, I am Vinícius Manzano 😃️</h2>
 
 ###
-
+<h2 align="center">Languages ​​I'm learning</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
